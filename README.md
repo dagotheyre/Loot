@@ -1,0 +1,2 @@
+# Loot
+Loot History
